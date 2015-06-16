@@ -1,6 +1,10 @@
 unity-project/adventures-of-jurd_Data/*
+unity-project/Library/assetDatabase3
+unity-project/Library/*.dwlt
+unity-project/Library/guidmapper
 unity-project/Library/metadata/*
 unity-project/Library/ScriptAssemblies/*.mdb
+unity-project/Library/ScriptAssemblies/*.txt
 unity-project/Temp/*.*
 unity-project/Temp/Unity*
 unity-project/Temp/__*
