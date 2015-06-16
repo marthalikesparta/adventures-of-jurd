@@ -1,3 +1,7 @@
 unity-project/adventures-of_jurd_Data/*.*
+unity-project/Library/metadata/*
+unity-project/Library/ScriptAssemblies/*.mdb
 unity-project/Temp/*.*
+unity-project/Temp/Unity*
+unity-project/Temp/__*
 unity-project/*.exe
